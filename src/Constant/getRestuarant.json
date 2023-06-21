@@ -1,0 +1,22 @@
+{
+    "menu": {
+        "restaurantList": [
+            {
+                "name": "Burger Point Restaurant",
+                "area": "Lalpur"
+            },
+            {
+                "name": "The Food Hub",
+                "area": "Lalpur"
+            },
+            {
+                "name": "Hungrella Biryani",
+                "area": "Lalpur"
+            },
+            {
+                "name": "Sensex The Tea Point",
+                "area": "Lalpur"
+            }
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+[
+    {
+        "cityname": "Ranchi",
+        "areaName": [
+            {
+                "name": "Lalpur",
+                "pincode": "834001"
+            },
+            {
+                "name": "Ratu",
+                "pincode": "834002"
+            },
+            {
+                "name": "Hatia",
+                "pincode": "834003"
+            }
+        ]
+    },
+    {
+        "cityname": "Jamshedpur",
+        "areaName": [
+            {
+                "name": "Bistupr",
+                "pincode": "832110"
+            },
+            {
+                "name": "Sakchi",
+                "pincode": "832111"
+            },
+            {
+                "name": "Mango",
+                "pincode": "832111"
+            }
+        ]
+    },
+    {
+        "cityname": "Patna",
+        "areaName": [
+            {
+                "name": "Sri Krishnapuri",
+                "pincode": "800001"
+            },
+            {
+                "name": "Lodipur",
+                "pincode": "800002"
+            },
+            {
+                "name": "Golambar",
+                "pincode": "800003"
+            }
+        ]
+    }
+]
